@@ -1,0 +1,30 @@
+{
+  "name": "clawai-king-booster-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ethersproject/providers": "^5.8.0",
+    "@farcaster/hub-nodejs": "^0.15.9",
+    "autoprefixer": "latest",
+    "axios": "^1.13.4",
+    "dotenv": "^17.2.3",
+    "ethers": "^6.16.0",
+    "next": "latest",
+    "postcss": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  }
+}
